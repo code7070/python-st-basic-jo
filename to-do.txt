@@ -1,0 +1,3 @@
+- Create sidebar menu
+- Create Page Product List, Product Add, Product Detail
+- Create Product OOP class
